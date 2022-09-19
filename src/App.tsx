@@ -6,9 +6,9 @@ import Content from './component/content';
 
 function App() {
   return (
-      <div>
+      <div className="grid grid-rows-3">
         <Header/>
-          <Content/>
+        <Content/>
         <Footer/>
       </div>
 
