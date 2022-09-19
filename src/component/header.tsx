@@ -13,7 +13,7 @@ function Header(){
                         <li><a href="https://magiceden.io/marketplace/abc_abracadabra">Magic Eden</a></li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost normal-case text-xl">ABCFlip</a>
+                <img className="md:w-1/5" src="https://abc123community.com/images/logo.png" alt=""/>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal p-0">
